@@ -17,9 +17,3 @@ int tong(int a[], int n){
 
 	return tong;
 }
-
-void xuatTen(){
-
-	cout<<"DH52006088"<<" | "<<"Nguyễn Lê Minh Tài"<<" | "<<"D20_TH10"<<endl;
-
-}

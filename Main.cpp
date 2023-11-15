@@ -7,7 +7,5 @@ int main()
 	//Goi ham tinh tong cac phan tu co trong mang
 
 	cout<<"Ket qua tong cua mang la "<<tong(a,10)<<endl;
-
-	xuatTen();
 	return 0;
 }
