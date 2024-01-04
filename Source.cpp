@@ -7,3 +7,12 @@ void nhap(int a[], int n)
 		cin >> a[i];
 	}
 }
+
+int tong(int a[],int n){
+
+	for(int i=0, i<n,i++){
+		tong+=a[i];
+	}
+
+return tong;
+}
